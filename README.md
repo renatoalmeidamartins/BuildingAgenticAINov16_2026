@@ -23,6 +23,7 @@
         - [Strands harness quickstart](https://strandsagents.com/docs/user-guide/harness/)
         - [Vended tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/), and the now deprecated [community tools](https://github.com/strands-agents/tools)
         - [Multi-agent patterns](https://strandsagents.com/docs/user-guide/sdk/multi-agent/multi-agent-patterns/) are built-in the SDK
+        - [Strands hooks](https://strandsagents.com/docs/user-guide/sdk/agents/hooks-events/)
     - [CrewAI quickstart](https://docs.crewai.com/v1.15.41/en/quickstart) 
     - [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
     - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
@@ -31,3 +32,18 @@
         - [Agentcore CLI](https://github.com/aws/agentcore-cli)
         - **DEPRECATED** [Agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
     - [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
+    - Memory
+        - [Prompts for the built-in long-term memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+        -[Using short-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/using-memory-short-term.html)
+        - [Using long-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-memory-long-term.html)
+    - [Introducing the Web Search API on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/)
+    - [Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge](https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/)
+    - [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
+    - MCP - Model Context protocol
+        - [MCP overview](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+        - [MCP architecture](https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture)
+        - [MCP organization](https://github.com/modelcontextprotocol/)
+        - [MCP inspector](https://github.com/modelcontextprotocol/inspector)
+        - [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+    - [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+    - [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
