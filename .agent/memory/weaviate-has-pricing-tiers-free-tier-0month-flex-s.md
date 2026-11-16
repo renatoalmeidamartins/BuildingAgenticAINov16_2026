@@ -1,0 +1,1 @@
+Weaviate has pricing tiers: Free Tier ($0/month), Flex (starts at $45/month), Premium (contact sales).

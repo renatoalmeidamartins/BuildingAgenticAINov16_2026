@@ -1,0 +1,1 @@
+The user requested a comparison of pricing tiers for Pinecone, Weaviate, and Qdrant, saved in c:\tmp\comparison.md.

@@ -1,0 +1,1 @@
+Pinecone has pricing tiers: Starter (free), Builder ($20/month), Standard ($50/month min), Enterprise ($500/month min).

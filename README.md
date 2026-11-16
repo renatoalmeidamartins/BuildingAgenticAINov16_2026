@@ -26,3 +26,8 @@
     - [CrewAI quickstart](https://docs.crewai.com/v1.15.41/en/quickstart) 
     - [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
     - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
+    - [Direct code deployment is the preferred path for deploying to agentcore runtime](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html)
+    - Deploying to agentcore
+        - [Agentcore CLI](https://github.com/aws/agentcore-cli)
+        - **DEPRECATED** [Agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+    - [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
