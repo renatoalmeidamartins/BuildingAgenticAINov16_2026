@@ -1,3 +1,5 @@
 strands-agents
+strands-harness
 langchain
 langchain-aws
+langgraph

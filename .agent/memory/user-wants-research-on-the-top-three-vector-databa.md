@@ -1,0 +1,1 @@
+User wants research on the top three vector databases with pricing and limits comparison

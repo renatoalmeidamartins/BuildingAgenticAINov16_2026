@@ -1,0 +1,1 @@
+The user requested research on the top three vector databases, comparison of their pricing and limits, and to write the comparison in a markdown file.
